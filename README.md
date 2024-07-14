@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **speaker recoginition project**
 
-- 🌱 I’m currently learning **Flutter,machinelearning**
+- 🌱 I’m currently learning **machinelearning**
 
 - 📫 How to reach me **hemalshaji77@gmail.com**
 
