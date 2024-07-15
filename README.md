@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemal</h1>
-<h3 align="center">A passionate student about webdevelopment and AI its related domains</h3>
+<h3 align="center">A passionate student about webdevelopment and AI and its related domains</h3>
 
 - 🔭 I’m currently working on **speaker recoginition project**
 
