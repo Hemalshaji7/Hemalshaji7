@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on a research project in speech analytics
+I'm currently working on a research project in speech analytics at IIIT-Hyderabad
+
 I'm also learning full-stack development as a side pursuit to enhance my technical skills.
 
 
