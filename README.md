@@ -6,17 +6,16 @@ I'm also learning full-stack development as a side pursuit to enhance my technic
 # 📝 Projects:
 
 - GenAI and LLM Inference on Intel AI Laptops
-  -  Completed under the Intel Unnati Industrial Training Program, this project involved developing and optimizing models for running GenAI applications on Intel AI laptops. I implemented simple LLM inference on the CPU and fine-tuned LLM models using Intel® OpenVINO™. Utilizing the Tinyllama Model, I achieved efficient processing and also created a chatbot leveraging these technologies.
+  - Completed the Intel Unnati Industrial Training Program, developing and optimizing GenAI models for Intel AI laptops. Implemented LLM inference on CPU, fine-tuned models with Intel® OpenVINO™, and created an efficient chatbot using the Tinyllama Model.
 
 - **Speaker recoginition**
-  -  Completed a Research teaser conducted by IIIT-Hyderabad focusing on speaker recognition, aimed at identifying individuals based on their unique voice characteristics. The project employed Convolutional Neural Networks (CNNs) to analyze and classify audio samples, leveraging advanced deep learning techniques to achieve high accuracy in distinguishing speakers. This research involved preprocessing audio data, designing and training the CNN model, and evaluating its performance to ensure robust and reliable speaker identification.
-
+  -  Completed a research project at IIIT-Hyderabad on speaker recognition, using CNNs to identify individuals based on their voice. The project involved preprocessing audio data, training a CNN model, and evaluating its performance for accurate speaker identification.
 
 - **Voice Vigil**
-  -  Voice Vigil is a mini project designed to distinguish between real human voices and those manipulated by AI tools. I developed a user-friendly interface using HTML, CSS, and JavaScript, with a backend builtin  Flask to handle file uploads and processing. The system leverages a Convolutional Neural Network (CNN) model to analyze audio files and detect any signs of manipulation, providing users with insights into the authenticity of their voice recordings.
+  -  Voice Vigil is a mini project that distinguishes between real and AI-manipulated voices. I created a user interface with HTML, CSS, and JavaScript, and used Flask for the backend to process file uploads. The system employs a CNN model to analyze audio files and detect manipulation.
 
 - **Automation Testing**
-  - Completed an internship focused on automation testing, where I contributed to a project by testing various scenarios on a website using the Selenium framework. My tasks included developing and executing automated test scripts to validate functionality and performance, identifying and reporting bugs, and ensuring the application met quality standards. This experience honed my skills in creating efficient test cases and integrating them into continuous testing processes.
+  - Completed an internship in automation testing with Selenium, where I developed and executed test scripts, identified bugs, and ensured quality standards for a website. This experience enhanced my skills in creating efficient test cases and integrating them into continuous testing processes.
 
 
 ## 🌐 Socials:
