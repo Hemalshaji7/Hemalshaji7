@@ -1,4 +1,4 @@
-# Hello, I'm Hemal Shaji 💫
+# Hello, I'm Hemal Shaji 
 
 # 💫 About Me:
 I'm currently working on a research project in speech analytics at IIIT-Hyderabad
