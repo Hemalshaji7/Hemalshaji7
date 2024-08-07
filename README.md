@@ -5,6 +5,9 @@ I'm also learning full-stack development as a side pursuit to enhance my technic
 
 # 📝 Projects:
 
+- GenAI and LLM Inference on Intel AI Laptops
+  -  Completed under the Intel Unnati Industrial Training Program, this project involved developing and optimizing models for running GenAI applications on Intel AI laptops. I implemented simple LLM inference on the CPU and fine-tuned LLM models using Intel® OpenVINO™. Utilizing the Tinyllama Model, I achieved efficient processing and also created a chatbot leveraging these technologies.
+
 - **Speaker recoginition**: [Project Link](#)
   -  Completed a Research teaser conducted by IIIT-Hyderabad focusing on speaker recognition, aimed at identifying individuals based on their unique voice characteristics. The project employed Convolutional Neural Networks (CNNs) to analyze and classify audio samples, leveraging advanced deep learning techniques to achieve high accuracy in distinguishing speakers. This research involved preprocessing audio data, designing and training the CNN model, and evaluating its performance to ensure robust and reliable speaker identification.
 
