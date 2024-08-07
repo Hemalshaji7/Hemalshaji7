@@ -4,11 +4,18 @@ I'm currently working on a research project in speech analytics at IIIT-Hyderaba
 I'm also learning full-stack development as a side pursuit to enhance my technical skills.
 
 # 📝 Projects:
-- **Speech Analytics Research**: [Project Link](#)
-- **Full-Stack Development**: [Project Link](#)
-- **Depression Detection Model**: [Project Link](#)
-- **Voice vigil**: [Project Link](#)
+
+- **Speaker recoginition**: [Project Link](#)
+  -  Completed a Research teaser conducted by IIIT-Hyderabad focusing on speaker recognition, aimed at identifying individuals based on their unique voice characteristics. The project employed Convolutional Neural Networks (CNNs) to analyze and classify audio samples, leveraging advanced deep learning techniques to achieve high accuracy in distinguishing speakers. This research involved preprocessing audio data, designing and training the CNN model, and evaluating its performance to ensure robust and reliable speaker identification.
+
+
+- **Voice Vigil**: [Project Link](#)
+-Voice Vigil is a mini project designed to distinguish between real human voices and those manipulated by AI tools. I developed a user-friendly interface using HTML, CSS, and JavaScript, with a backend built in 
+ Flask to handle file uploads and processing. The system leverages a Convolutional Neural Network (CNN) model to analyze audio files and detect any signs of manipulation, providing users with insights into the 
+ authenticity of their voice recordings.
+
 - **Automation Testing**: [Project Link](#)
+- Completed an internship focused on automation testing, where I contributed to a project by testing various scenarios on a website using the Selenium framework. My tasks included developing and executing automated test scripts to validate functionality and performance, identifying and reporting bugs, and ensuring the application met quality standards. This experience honed my skills in creating efficient test cases and integrating them into continuous testing processes.
 
 
 ## 🌐 Socials:
