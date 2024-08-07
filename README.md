@@ -11,7 +11,7 @@ I'm also learning full-stack development as a side pursuit to enhance my technic
   - Completed the Intel Unnati Industrial Training Program, developing and optimizing GenAI models for Intel AI laptops. Implemented LLM inference on CPU, fine-tuned models with Intel® OpenVINO™, and created an efficient chatbot using the Tinyllama Model.
 
 - **Speaker recoginition**
-  -  Completed a research project at IIIT-Hyderabad on speaker recognition, using CNNs to identify individuals based on their voice. The project involved preprocessing audio data, training a CNN model, and evaluating its performance for accurate speaker identification.
+  -  Completed a research teaser  conducted by IIIT-Hyderabad on speaker recognition project, using CNNs to identify individuals based on their voice. The project involved preprocessing audio data, training a CNN model, and evaluating its performance for accurate speaker identification.
 
 - **Voice Vigil**
   -  Voice Vigil is a mini project that distinguishes between real and AI-manipulated voices. I created a user interface with HTML, CSS, and JavaScript, and used Flask for the backend to process file uploads. The system employs a CNN model to analyze audio files and detect manipulation.
