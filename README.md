@@ -3,6 +3,13 @@ I'm currently working on a research project in speech analytics at IIIT-Hyderaba
 
 I'm also learning full-stack development as a side pursuit to enhance my technical skills.
 
+# 📝 Projects:
+- **Speech Analytics Research**: [Project Link](#)
+- **Full-Stack Development**: [Project Link](#)
+- **Depression Detection Model**: [Project Link](#)
+- **Voice vigil**: [Project Link](#)
+- **Automation Testing**: [Project Link](#)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemalshaji) 
