@@ -6,7 +6,7 @@ I'm currently working on a research project in speech analytics at IIIT-Hyderaba
 I'm also learning full-stack development as a side pursuit to enhance my technical skills.
 
 # 📝 Projects:
-
+..
 - GenAI and LLM Inference on Intel AI Laptops
   - Completed the Intel Unnati Industrial Training Program, developing and optimizing GenAI models for Intel AI laptops. Implemented LLM inference on CPU, fine-tuned models with Intel® OpenVINO™, and created an efficient chatbot using the Tinyllama Model.
 
